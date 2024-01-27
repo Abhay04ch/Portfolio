@@ -60,3 +60,10 @@
     background-color: #202038;
 }
 
+#textarea{
+    border-radius: 10px;
+    width: 32vw;
+    margin-left: 12px;
+    margin-bottom: 12px;
+    height:10vh;
+}
